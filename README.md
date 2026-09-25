@@ -1,4 +1,4 @@
-# 🌿 Crop Disease Detection
+# Crop Disease Detection
 
 A Convolutional Neural Network (CNN) that classifies tomato, potato, and
 bell pepper leaves as healthy or diseased from a photo, trained on the
