@@ -3,7 +3,7 @@ Crop Disease Detection using a Convolutional Neural Network (CNN)
 -------------------------------------------------------------------
 Trains an image classifier on the PlantVillage dataset to identify
 diseased vs. healthy leaves across tomato, potato, and bell pepper
-crops.
+crops. using supervised leaning.
 
 Author: Muhammad Taha Ahmad (NinjaVinja)
 Course: Artificial Intelligence, Semester 6
